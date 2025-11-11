@@ -1,29 +1,31 @@
-# Web Programming Exercise 7
+# Web Programming Exercise 8
 Javascript Introduction: 
 https://drive.google.com/file/d/1SZ1d7YR2tr8-PenM05Lu6wUdnYSCBV_P/view?usp=sharing
 
 ## Exercise 1:
 
-When button is clicked, change the background color of the page to light blue.
+When button is clicked, remove the box.
 
-https://github.com/user-attachments/assets/aa9168db-c6f6-4bda-9e19-46cd45915760
+https://github.com/user-attachments/assets/9e836e01-faa3-4795-836a-18d5fe50ca40
 
 ---
 
 ## Exercise 2:
 
-Make the box respond to mouse actions and clicks.      
--When clicked → increase the size  
--When double-clicked → reset size    
+Add boxes numbered 1, 2, 3…     
+Each new box shows its number inside.   
 
-https://github.com/user-attachments/assets/44177bf7-e91d-4f01-84e3-0ec559dec490
+https://github.com/user-attachments/assets/3bac96cf-0e0d-465c-8baf-cca296b8eb8d
+
+---
 
 ## Exercise 3:
 
-When button is clicked, toggle between light and dark mode by changing:  
--background color   
--label (“Switch to Light” / “Switch to Dark”)  
+Click the button → creates a circle with random color.   
+Click a circle → it deletes itself.
 
-https://github.com/user-attachments/assets/ba9f3ef1-314b-463f-b35e-fbf1a3e4aebd
+https://github.com/user-attachments/assets/78d684f0-63b6-4538-aa85-7ea82318eb80
+
+
 
 
