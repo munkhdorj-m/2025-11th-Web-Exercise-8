@@ -1,6 +1,7 @@
 # Web Programming Exercise 8
-Javascript Introduction: 
-https://drive.google.com/file/d/1SZ1d7YR2tr8-PenM05Lu6wUdnYSCBV_P/view?usp=sharing
+Javascript Creating & Removing Elements:
+https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=sharing
+
 
 ## Exercise 1:
 
